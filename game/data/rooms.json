@@ -1,0 +1,9 @@
+{
+    "rooms": [
+        {
+            "id": "room_1",
+            "name": "Room 1",
+            "status": "available"
+        }
+    ]
+}

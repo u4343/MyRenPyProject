@@ -1,0 +1,12 @@
+{
+    "reservations": [
+        {
+            "id": "reservation_1",
+            "customer_id": "customer_1",
+            "manager_id": "yuna",
+            "room_id": "room_1",
+            "time": "2024-11-29 14:00",
+            "status": "confirmed"
+        }
+    ]
+}

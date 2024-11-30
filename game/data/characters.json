@@ -1,0 +1,44 @@
+{
+    "characters": [
+        {
+            "id": "yuna",
+            "name": "유나",
+            "age": 22,
+            "height": 165,
+            "weight": 50,
+            "measurements": [86, 61, 88],
+            "cup_size": "C",
+            "smoking": false,
+            "skills": {
+                "conversation": 85,
+                "service": 90
+            },
+            "performance": {
+                "overall": 88,
+                "popularity": 75
+            },
+            "available": true,
+            "current_location": "로비"
+        },
+        {
+            "id": "sohee",
+            "name": "소희",
+            "age": 21,
+            "height": 160,
+            "weight": 48,
+            "measurements": [83, 58, 85],
+            "cup_size": "B",
+            "smoking": true,
+            "skills": {
+                "conversation": 75,
+                "service": 85
+            },
+            "performance": {
+                "overall": 87,
+                "popularity": 70
+            },
+            "available": true,
+            "current_location": "대기실"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "id": "event_1",
+            "name": "단속 경고",
+            "trigger": "random",
+            "description": "유흥업소 단속이 예고되었습니다. 손님 수가 감소합니다.",
+            "effect": "reduce_customers",
+            "chance": 10
+        },
+        {
+            "id": "event_2",
+            "name": "VIP 손님 방문",
+            "trigger": "specific_customer",
+            "description": "VIP 손님이 매장을 방문하여 큰 팁을 남길 가능성이 있습니다.",
+            "effect": "increase_income",
+            "chance": 5
+        }
+    ]
+}
